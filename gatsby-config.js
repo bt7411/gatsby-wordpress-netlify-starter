@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `WordPress Gatsby Starter`,
-    author: `Justin W Hall`,
+    author: `finflix`,
     description: `A Gatsby WordPress Starter with special love for Netlify`,
     siteUrl: `https://gatsby-wordpress-netlify-production.netlify.com`,
     social: {
-      twitter: `justinwhall`,
+      twitter: `finflix`,
     },
     postPrefix : '/blog',
     pagePrefix: '',
@@ -30,8 +30,6 @@ module.exports = {
       options: {
         // The base url to your WP site.
         baseUrl: 'www.finflix.com',
-        // baseUrl: 'data.justinwhall.com',
-        // baseUrl: 'wpgatsby.wtf',
         // WP.com sites set to true, WP.org set to false
         hostingWPCOM: false,
         // The protocol. This can be http or https.
