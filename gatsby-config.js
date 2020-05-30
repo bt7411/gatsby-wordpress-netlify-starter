@@ -5,7 +5,7 @@ module.exports = {
     description: `A Gatsby WordPress Starter with special love for Netlify`,
     siteUrl: `https://gatsby-wordpress-netlify-production.netlify.com`,
     social: {
-      twitter: `finflix`,
+      twitter: `finflixDesign`,
     },
     postPrefix : '/blog',
     pagePrefix: '',
